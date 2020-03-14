@@ -1,7 +1,7 @@
 package ch03;
 /*
  * 此範例為三元運算子測試
- * 可自行更換變數值比較結果......
+ * 可自行更換變數值比較結果000
  */
 public class TestTernaryOP {
 
