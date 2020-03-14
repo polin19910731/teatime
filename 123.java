@@ -5,6 +5,8 @@ package ch03;
  */
 public class TestTernaryOP {
 
+	String str = "bbb";
+
 	public static void main(String[] args) {
 		int income = 10000, outcome = 12000;
 		System.out.println((income > outcome) ? "有積蓄" : "入不敷出");
