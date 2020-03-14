@@ -5,7 +5,10 @@ package ch03;
  */
 public class TestTernaryOP {
 
+
 	String str = "bbb";
+	String str = "aaa";
+
 
 	public static void main(String[] args) {
 		int income = 10000, outcome = 12000;
