@@ -8,6 +8,7 @@ public class TestTernaryOP {
 
 	String str = "bbb";
 	String str = "aaa";
+	String str = "ccc
 
 
 	public static void main(String[] args) {
